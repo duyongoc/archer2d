@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4dc9b59c6f2843109db61f2b94af622, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  MUSIC_BACKGROUND: {fileID: 8300000, guid: a94089826117745e6a591f247d595045, type: 3}
+  SFX_START_GAME: {fileID: 8300000, guid: 8ff5cccf481b74230b02f22539d60cd3, type: 3}
+  SFX_TENSION_ARROW: {fileID: 8300000, guid: f4467d85895cd4a949bfc155e07dadeb, type: 3}
+  SFX_RELEASE_ARROW: {fileID: 8300000, guid: 9cc9cf1c5b02d4ba2a2d805ad6e83c88, type: 3}
+  SFX_TARGET_HIT: {fileID: 8300000, guid: 3088be4fd61b84ebe8e47629fa64baf4, type: 3}
+  SFX_FRUIT_HIT: {fileID: 8300000, guid: 4b39f747cf92646b890efbd185d2165d, type: 3}
+  SFX_SHOOT: {fileID: 8300000, guid: c97508895dd164df0826e7449b9ea470, type: 3}
+  SFX_PERFECT_SHOOT: {fileID: 8300000, guid: b2ebba66d7ea045ad8335d5013f4b532, type: 3}
+  SFX_GAMEOVER: {fileID: 8300000, guid: 0f032142aaac14a71a29db20fb5d816f, type: 3}
+  SFX_BG_TRANSITION: {fileID: 8300000, guid: ffbb6ba3f9bb44183b5fe950e3651eaf, type: 3}
