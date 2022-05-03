@@ -10,6 +10,8 @@ public class ScoreMgr : Singleton<ScoreMgr>
     public int score;
     public int highscore;
 
+    public int CurrentScore => score;
+
 
     #region UNITY
     private void OnEnable()
